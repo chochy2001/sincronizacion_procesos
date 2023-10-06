@@ -14,7 +14,7 @@ import java.util.concurrent.Semaphore;
 public class SemaphoreTest {
 
 	// max 4 people
-	static Semaphore semaphore = new Semaphore(4);
+	static Semaphore semaphore = new Semaphore(3);
 
 	static class PruebaHilos extends Thread {
 
@@ -45,7 +45,7 @@ public class SemaphoreTest {
 								+ semaphore.availablePermits());
 
 						// sleep 1 second
-						Thread.sleep(1000);
+						Thread.sleep(500);
 
 					}
 

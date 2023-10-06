@@ -110,7 +110,7 @@ public class SemaphoreDemo
     { 
         // creating a Semaphore object 
         // with number of permits 1 
-        Semaphore sem = new Semaphore(1); 
+        Semaphore sem = new Semaphore(2); 
           
         // creating two threads with name A and B 
         // Note that thread A will increment the count 
