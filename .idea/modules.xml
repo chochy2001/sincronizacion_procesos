@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Process_Synchronization/Process_Synchronization.iml" filepath="$PROJECT_DIR$/Process_Synchronization/Process_Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programas P4/ProductorConsumidor/ProductorConsumidor.iml" filepath="$PROJECT_DIR$/Programas P4/ProductorConsumidor/ProductorConsumidor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programas P4/Programas P4.iml" filepath="$PROJECT_DIR$/Programas P4/Programas P4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sincronizacion_procesos.iml" filepath="$PROJECT_DIR$/.idea/sincronizacion_procesos.iml" />
+    </modules>
+  </component>
+</project>
